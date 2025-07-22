@@ -1,7 +1,7 @@
 # A Bayesian Hierarchical Model for Generating Synthetic Unbalanced Power Distribution Grids
 
 [![arXiv](https://img.shields.io/badge/arXiv-2501.08808-b31b1b.svg)](https://arxiv.org/abs/2501.08808)
-[![Conference](https://img.shields.io/badge/IEEE-PowerTech%202025-00629B.svg)](https://ieeexplore.ieee.org/)
+[![Conference](https://img.shields.io/badge/IEEE-PowerTech%202025-00629B.svg)](https://ieeexplore.ieee.org/](https://2025.ieee-powertech.org/))
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 This repository contains the official source code and main results for the paper **"A Bayesian Hierarchical Model for Generating Synthetic Unbalanced Power Distribution Grids"**, presented at the IEEE PowerTech 2025 conference.
